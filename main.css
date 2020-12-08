@@ -156,19 +156,10 @@ li {
   color: black;
 }
 #instagram{
-  color: background: -moz-linear-gradient(45deg,  rgba(247,217,49,1) 0%, rgba(240,134,47,1) 24%, rgba(232,44,44,0.97) 50%, rgba(200,40,96,0.95) 66%, rgba(131,33,206,0.95) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(45deg,  rgba(247,217,49,1) 0%,rgba(240,134,47,1) 24%,rgba(232,44,44,0.97) 50%,rgba(200,40,96,0.95) 66%,rgba(131,33,206,0.95) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(45deg,  rgba(247,217,49,1) 0%,rgba(240,134,47,1) 24%,rgba(232,44,44,0.97) 50%,rgba(200,40,96,0.95) 66%,rgba(131,33,206,0.95) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7d931', endColorstr='#f28321ce',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-;
-  border-radius: 0.312rem;
+  color: orangered;
 }
 #instagram:hover {
-  color: background: rgb(0,0,0); /* Old browsers */
-background: -moz-linear-gradient(45deg,  rgba(0,0,0,1) 0%, rgba(19,19,19,1) 73%, rgba(19,19,19,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(45deg,  rgba(0,0,0,1) 0%,rgba(19,19,19,1) 73%,rgba(19,19,19,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(45deg,  rgba(0,0,0,1) 0%,rgba(19,19,19,1) 73%,rgba(19,19,19,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#131313',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  color: black;
 }
 #location {
   color: red;
@@ -184,7 +175,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     
     margin-top: 7.6rem;
     width: 95%;
-    height: auto%;
+    height: auto;
 }
   body {
     height: auto;
